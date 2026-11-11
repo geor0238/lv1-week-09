@@ -88,7 +88,7 @@ nav a {
 	display: block;
 	background-color: rgb(208, 159, 159);
 	padding: 10px;
-	border-top: 2px solid darkslateblue;
+	border-top: 2px solid rgb(71, 61, 137);
 	border-bottom: 2px solid darkslateblue;
 	/* centre the text  */
 	text-align: center;
